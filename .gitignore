@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Anomaly_Detection/creditcard.csv
+unsupervised_data.csv
+Predictions.csv
+test_multi_class.csv
+train_multi_class.csv
